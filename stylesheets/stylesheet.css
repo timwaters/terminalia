@@ -365,6 +365,11 @@ img.inline {
     padding-bottom: 10px;
 }
 
+.larger {
+      font-size: larger;
+      font-weight: 550;
+        }
+
 /* MISC */
 .clearfix:after {
   clear: both;
