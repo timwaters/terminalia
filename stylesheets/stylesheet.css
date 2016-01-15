@@ -89,6 +89,23 @@ header h2 {
   letter-spacing: 0;
 }
 
+header h2 a {
+	color:white;
+}
+
+header h1 a {
+	color:white;
+}
+
+
+header h2 a:hover {
+	color:white;
+}
+
+header h1 a:hover {
+	color:white;
+}
+
 .inner {
   position: relative;
   width: 940px;
@@ -101,8 +118,8 @@ header h2 {
 }
 
 #main-content {
-  width: 690px;
-  float: left;
+/*  width: 690px;
+  float: left;*/
 }
 
 #main-content img {
