@@ -106,6 +106,10 @@ header h1 a:hover {
 	color:white;
 }
 
+ul.events li{
+	margin-bottom: 1em;
+}
+
 .inner {
   position: relative;
   width: 940px;
