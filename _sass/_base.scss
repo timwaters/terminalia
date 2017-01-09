@@ -56,7 +56,7 @@ p {
 }
 
 .text-faded {
-    color: rgba(white, .8);
+    color: rgba(white, .9);
 }
 
 section {
@@ -280,6 +280,12 @@ header {
             }
         }
     }
+}
+
+.about{
+    @include background-cover;
+    background-position: center;
+    background-image: url('../img/burley_bar_dark.jpg');
 }
 
 .call-to-action {
