@@ -1,0 +1,14 @@
+# Site settings
+title:
+email: tim@geothings.net
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: tim_waters
+github_username:
+facebook_group: 106461459383547
+facebook_title: Leeds Psychogeography Group
+
+# Build settings
+markdown: kramdown
