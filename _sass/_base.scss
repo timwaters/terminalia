@@ -285,6 +285,12 @@ header {
 .about{
     @include background-cover;
     background-position: center;
+    background-image: url('../img/terminalia_painting_dark.jpg');
+}
+.past {
+    @include background-cover;
+    background-position: center;
+
     background-image: url('../img/burley_bar_dark.jpg');
 }
 
