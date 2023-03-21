@@ -302,8 +302,20 @@ background: #341500;
     background-color: #240f00 ; 
     border-radius: 2em;
     padding: 2em;
+    margin-bottom: 1em;
+    position: relative;
     img {
         margin: 1em;
+        margin-left: 0em;
+    }
+    .doc {
+        position: absolute;
+        top: 7px;
+        text-transform: uppercase;
+        color: rgba(128, 128, 128, 0.582);
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bolder;
+        letter-spacing: 2px;
     }
 }
 
